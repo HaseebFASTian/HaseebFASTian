@@ -6,6 +6,8 @@ I design and develop complete websites, from UI/UX and responsive frontends to b
 
 I have delivered projects on time for clients in the **United States, United Kingdom, Singapore, France, Dubai (UAE), and Saudi Arabia**.
 
+**Currently working on 10+ projects under development.**
+
 Based in **Lahore** · **FAST-NUCES Islamabad graduate** · **Weproms**
 
 [Explore my repositories](https://github.com/HaseebFASTian?tab=repositories) · [Get in touch](mailto:haseeb.tariq7669@gmail.com)
