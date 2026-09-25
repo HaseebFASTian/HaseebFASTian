@@ -16,6 +16,8 @@ Based in **Lahore** · **FAST-NUCES Islamabad graduate** · **Weproms**
 
 ---
 
+
+**[View my Portfolio & CV](https://haseebtariq.haseeb-tariq7669.workers.dev/)**
 ## What I do
 
 - **UI/UX design:** clear visual hierarchy, intuitive navigation, and polished web interfaces.
