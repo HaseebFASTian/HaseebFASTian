@@ -4,7 +4,7 @@
 
 I design and develop complete websites, from UI/UX and responsive frontends to backend functionality and delivery. My experience includes business websites, CRM development, content management, and interactive web interfaces.
 
-I have delivered projects on time for clients in the **United Kingdom, Singapore, France, Dubai (UAE), and Saudi Arabia**.
+I have delivered projects on time for clients in the **United States, United Kingdom, Singapore, France, Dubai (UAE), and Saudi Arabia**.
 
 Based in **Lahore** · **FAST-NUCES Islamabad graduate** · **Weproms**
 
@@ -19,17 +19,25 @@ Based in **Lahore** · **FAST-NUCES Islamabad graduate** · **Weproms**
 - **Full-stack development:** APIs, databases, authentication, and management tools.
 - **Complete website delivery:** turning client requirements into finished websites and delivering to agreed timelines.
 
-## Selected client work
+## Website portfolio
 
-### [My Heart Care Services](https://myheartcareservices.com)
+Explore my work through the public websites and frontend demos below. Client source code, CRM administration, and client data remain private.
 
-Worked on the complete website and its CRM, combining frontend development and UI/UX design with management functionality. The project also includes a blog CMS.
-
-[Visit the live website](https://myheartcareservices.com)
-
-### International website projects
-
-Designed and developed complete frontend websites for clients across the UK, Singapore, France, Dubai, and Saudi Arabia, with an emphasis on polished UI/UX, responsive layouts, and on-time delivery.
+| Project | My work | Visit |
+| --- | --- | --- |
+| **Rasa Catering · Singapore** | Complete A-to-Z website delivery, including UI/UX and development. | [Live website](https://rasacatering.com.sg/) |
+| **Emirates EBCS · Dubai** | Website development and UI/UX work for a business setup and company formation website. | [Live website](https://emiratesebcs.com/) |
+| **My Heart Care Services · USA** | Complete website delivery, CRM development, frontend/UI/UX, and a blog CMS. | [Live website](https://myheartcareservices.com/) |
+| **RH Travel · United Kingdom** | Complete working travel company website, delivered from development through completion. | [Live website](https://rhtravel.co.uk/Home) |
+| **Zora Beds · United Kingdom** | Complete website project, handled through final client delivery. | [Live website](https://zorabeds.co.uk/) |
+| **Johnny Goggles · United Kingdom** | Complete website design and development, delivered to the client. | [Live website](https://johnnygoggles.co.uk/) |
+| **indoorGreens · Singapore** | Responsive hydroponics website with product browsing and programme pages. | [Website demo](https://indoorgreens-website.pages.dev/) |
+| **Rasa Foods · Singapore** | Responsive food manufacturer website and product presentation. | [Website demo](https://rasa-foods.pages.dev/) |
+| **Sammy's Chicken N Shakes** | Restaurant website with branded visuals and responsive layouts. | [Website demo](https://sammay-chicken.pages.dev/) |
+| **TECHNIC GAZ SERVICE** | Responsive service website with clear navigation and service presentation. | [Website demo](https://technic-gaz-service.pages.dev/) |
+| **Al Nour Memorials** | Memorials business website with a responsive frontend. | [Website demo](https://al-noor-7ww.pages.dev/) |
+| **Nayyars Solicitors** | Legal services website redesign built with React and Vite. | [Website demo](https://nayyars-solicitors.pages.dev/) |
+| **SASTI Device Store** | Online device storefront with product browsing and checkout interfaces. | [Website demo](https://sastidevicestore.pages.dev/) |
 
 ## Featured public projects
 
