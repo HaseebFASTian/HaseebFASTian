@@ -39,6 +39,7 @@ Explore my work through the public websites and frontend demos below. Client sou
 | **RH Travel · United Kingdom** | Complete working travel company website, delivered from development through completion. | [Live website](https://rhtravel.co.uk/Home) |
 | **Zora Beds · United Kingdom** | Complete website project, handled through final client delivery. | [Live website](https://zorabeds.co.uk/) |
 | **Johnny Goggles · United Kingdom** | Complete website design and development, delivered to the client. | [Live website](https://johnnygoggles.co.uk/) |
+| **Japston Energy · Pakistan** | Complete solar company website project, independently handled from start to finish. | [Live website](https://japstonenergy.com/) |
 | **indoorGreens · Singapore** | Responsive hydroponics website with product browsing and programme pages. | [Website demo](https://indoorgreens-website.pages.dev/) |
 | **Rasa Foods · Singapore** | Responsive food manufacturer website and product presentation. | [Website demo](https://rasa-foods.pages.dev/) |
 | **Sammy's Chicken N Shakes** | Restaurant website with branded visuals and responsive layouts. | [Website demo](https://sammay-chicken.pages.dev/) |
