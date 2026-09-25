@@ -44,6 +44,7 @@ Explore my work through the public websites and frontend demos below. Client sou
 | **Rasa Foods · Singapore** | Responsive food manufacturer website and product presentation. | [Website demo](https://rasa-foods.pages.dev/) |
 | **Sammy's Chicken N Shakes** | Restaurant website with branded visuals and responsive layouts. | [Website demo](https://sammay-chicken.pages.dev/) |
 | **TECHNIC GAZ SERVICE** | Responsive service website with clear navigation and service presentation. | [Website demo](https://technic-gaz-service.pages.dev/) |
+| **TECHNIC GAZ SERVICE — V3 · France** | **Under development.** French client website; independently handling the entire project, including UI/UX design and development. | [Development preview](https://technic-gaz-service-v3.pages.dev/#accueil) |
 | **Al Nour Memorials** | Memorials business website with a responsive frontend. | [Website demo](https://al-noor-7ww.pages.dev/) |
 | **Nayyars Solicitors** | Legal services website redesign built with React and Vite. | [Website demo](https://nayyars-solicitors.pages.dev/) |
 | **SASTI Device Store** | Online device storefront with product browsing and checkout interfaces. | [Website demo](https://sastidevicestore.pages.dev/) |
