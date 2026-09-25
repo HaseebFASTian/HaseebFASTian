@@ -2,7 +2,9 @@
 
 **Full-stack web developer · UI/UX design · Complete website delivery**
 
-I design and develop complete websites, from UI/UX and responsive frontends to backend functionality and delivery. My experience includes business websites, CRM development, content management, and interactive web interfaces.
+I am a full-stack developer who handles frontend development, backend systems, API development and integration, and databases. I have managed multiple projects from UI/UX design and development through complete delivery, including business websites, CRM solutions, and web applications.
+
+I also work with clients on ongoing maintenance after delivery, covering frontend updates, backend improvements, API integrations, database changes, and bug fixes.
 
 I have delivered projects on time for clients in the **United States, United Kingdom, Singapore, France, Dubai (UAE), and Saudi Arabia**.
 
@@ -17,9 +19,11 @@ Based in **Lahore** · **FAST-NUCES Islamabad graduate** · **Weproms**
 ## What I do
 
 - **UI/UX design:** clear visual hierarchy, intuitive navigation, and polished web interfaces.
-- **Frontend development:** responsive pages, reusable components, and purposeful animations.
-- **Full-stack development:** APIs, databases, authentication, and management tools.
+- **Frontend development:** React interfaces, responsive pages, reusable components, and purposeful animations.
+- **Backend & APIs:** server-side development with Node.js, Python, and C++, plus API development and integration.
+- **Databases:** experience working with MySQL and MongoDB, including application integration and data management.
 - **Complete website delivery:** turning client requirements into finished websites and delivering to agreed timelines.
+- **Client maintenance:** ongoing frontend, backend, API, and database support after project delivery.
 
 ## Website portfolio
 
@@ -69,8 +73,9 @@ A modular toolkit for building animated, interactive websites.
 | Area | Tools |
 | --- | --- |
 | Frontend | React, JavaScript, HTML, CSS, Tailwind CSS |
-| Backend | Node.js, Express, REST APIs |
-| Data & authentication | MySQL, JWT, bcrypt |
+| Backend & languages | Node.js, Express, Python, C++ |
+| Databases | MySQL, MongoDB |
+| APIs & authentication | REST APIs, API integration, JWT, bcrypt |
 | Motion & interaction | GSAP, Lenis, Lottie |
 | Delivery & workflow | Cloudflare Pages, Git, GitHub, npm |
 
